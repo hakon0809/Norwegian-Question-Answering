@@ -1,0 +1,30 @@
+<http://www.wikidata.org/entity/Q30> | <http://www.wikidata.org/prop/P36> | <http://www.wikidata.org/entity/Q61> | "Washington, D.C."@nb | hva heter hovedstaden i usa?
+<http://www.wikidata.org/entity/Q1767831> | <http://www.wikidata.org/prop/P50> | <http://www.wikidata.org/entity/Q278285> | "Erlend Loe"@nb | hvem er forfatteren av naiv super?
+<http://www.wikidata.org/entity/Q20> | <http://www.wikidata.org/prop/P36> | <http://www.wikidata.org/entity/Q585> | "Oslo"@nb | hva heter hovedstaden i norge?
+<http://www.wikidata.org/entity/Q20> | <http://www.wikidata.org/prop/P6> | <http://www.wikidata.org/entity/Q467948> | "Jonas Gahr Støre"@nb | hva heter statsministeren i norge?
+<http://www.wikidata.org/entity/Q585>  | <http://www.wikidata.org/prop/P1082> | "693494"^^<http://www.w3.org/2001/XMLSchema#decimal> | hvor mange innbyggere er det i oslo?
+<http://www.wikidata.org/entity/Q20>  | <http://www.wikidata.org/prop/P1082> | "5425270"^^<http://www.w3.org/2001/XMLSchema#decimal> | hva er folketallet i norge?
+<http://www.wikidata.org/entity/Q2195271> | <http://www.wikidata.org/prop/P407> | <http://www.wikidata.org/entity/Q1860> | "engelsk"@nb | hva er offisielt sprak i usa? #FP
+<http://www.wikidata.org/entity/Q11956605> | <http://www.wikidata.org/prop/P407> | <http://www.wikidata.org/entity/Q9043> | "norsk"@nb | hva er offisielt sprak i norge? #FP 
+<http://www.wikidata.org/entity/Q142> | <http://www.wikidata.org/prop/P30> | <http://www.wikidata.org/entity/Q46> | "Europa"@nb | hvilket kontinent er frankrike i?
+<http://www.wikidata.org/entity/Q76>  | @zu@<http://www.w3.org/2004/02/skos/core#prefLabel> | "Barack Obama"@zu | hvor er barack obama født? #False, missing født alias. Model is having trouble with only matching to substring.
+<http://www.wikidata.org/entity/Q76> | <http://www.wikidata.org/prop/P19> | <http://www.wikidata.org/entity/Q6366688> | "Kapiolani Medical Center for Women and Children"@nb | hvor er barack obama fødselssted? #Riktig sted, men ikke oversatt egennavn
+<http://www.wikidata.org/entity/Q1730339> | <http://www.wikidata.org/prop/P19> | <http://www.wikidata.org/entity/Q83206> | "Oberndorf am Neckar"@nb | hvor er barack obamas fødselssted? #mispelled term leads to wrong best candidate
+<http://www.wikidata.org/entity/Q362>  | @zu@<http://www.w3.org/2004/02/skos/core#prefLabel> | "World War II"@zu | når startet andre verdenskrig? #missing "startet" synonym
+<http://www.wikidata.org/entity/Q362>  | <http://www.wikidata.org/prop/P580> | "1939-09-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> | når var starttidspunktet til andre verdenskrig?
+<http://www.wikidata.org/entity/Q38222>  | @zh@<http://www.w3.org/2004/02/skos/core#prefLabel> | "乔治·卢卡斯"@zh | hvilken film har george lucas regisert? #mangler regisert property alias
+<http://www.wikidata.org/entity/Q462> | <http://www.wikidata.org/prop/P127> | <http://www.wikidata.org/entity/Q2216535> | "Walt Disney Studios"@nb | hvem eier star wars? # Walt disney er riktig, men det gjorde https://www.wikidata.org/entity/Q242446
+<http://www.wikidata.org/entity/Q51752> | <http://www.wikidata.org/prop/P175> | <http://www.wikidata.org/entity/Q192812> | "Hayden Christensen"@nb | hva heter skuespilleren til anakin skywalker?
+<http://www.wikidata.org/entity/Q51752> | <http://www.wikidata.org/prop/P175> | <http://www.wikidata.org/entity/Q192812> | "Hayden Christensen"@nb | hva heter skuespilleren som spiller anakin skywalker?
+<http://www.wikidata.org/entity/Q15228>  | @zh-tw@<http://www.w3.org/2004/02/skos/core#prefLabel> | "魔戒"@zh-tw | hva er forrige boken til ringenes herre? #feil
+<http://www.wikidata.org/entity/Q190214> | <http://www.wikidata.org/prop/P136> | <http://www.wikidata.org/entity/Q1257444> | "filmatisering"@nb | hvilken sjanger er ringenes herre? #ambigouous #fantasy-film, eventyr-film, actionfilm - resulterer til en liste med sjangre som alle er sanne
+<http://www.wikidata.org/entity/Q80621> | <http://www.wikidata.org/prop/P1303> | <http://www.wikidata.org/entity/Q5994> | "piano"@nb | hvilket instrument spilte edvard grieg?
+<http://www.wikidata.org/entity/Q336496> | <http://www.wikidata.org/prop/P509> | <http://www.wikidata.org/entity/Q204933> | "halshogging"@nb | hva var dødsårsaken til mimir?
+<http://www.wikidata.org/entity/Q76400049>  | <http://schema.org/description> | "2005 single by Lindsay Lohan"@en | hva er høyden over havet til galdhøpiggen? 
+<http://www.wikidata.org/entity/Q588281>  | <http://www.wikidata.org/prop/P2046> | "3500"^^<http://www.w3.org/2001/XMLSchema#decimal> | hva er arealet til jotunheimen?
+<http://www.wikidata.org/entity/Q65769238>  | <http://schema.org/description> | "family name"@en | hva er høyeste punktet til jotunheimen?
+<http://www.wikidata.org/entity/Q1312>  | @mdf@<http://www.w3.org/2000/01/rdf-schema#label> | "Тундась"@mdf | når var førstebestigning av galdhøpiggen?
+<http://www.wikidata.org/entity/Q7251> | <http://www.wikidata.org/prop/P91> | <http://www.wikidata.org/entity/Q6636> | "homofili"@nb | hva var legningen til alan turing?
+<http://www.wikidata.org/entity/Q7251> | <http://www.wikidata.org/prop/P103> | <http://www.wikidata.org/entity/Q1860> | "engelsk"@nb | hva var morsmålet til alan turing?
+<http://www.wikidata.org/entity/Q3968378>  | <http://www.wikidata.org/prop/P170> | <http://www.wikidata.org/entity/Q5228993> | hvem er skaperen av dark knight?
+<http://www.wikidata.org/entity/Q219504> | <http://www.wikidata.org/prop/P21> | <http://www.wikidata.org/entity/Q6581097> | "mann"@nb | hvilket kjønn er boromir?

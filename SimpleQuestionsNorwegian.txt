@@ -1,0 +1,25 @@
+<http://www.wikidata.org/entity/Q37232490>  | <http://schema.org/description> | "family name"@en | hvilken spillerposisjon har mike twellman?
+<http://www.wikidata.org/entity/Q106781935> | <http://www.wikidata.org/prop/P21> | <http://www.wikidata.org/entity/Q6581097> | "mann"@nb | hvilket kjønn er fausto fawscett?
+<http://www.wikidata.org/entity/Q66832> | <http://www.wikidata.org/prop/P27> | <http://www.wikidata.org/entity/Q183> | "Tyskland"@nb | hva var nasjonaliteten til franz roh?
+<http://www.wikidata.org/entity/Q504961>  | <http://schema.org/description> | "1927 film by Alfred Hitchcock, Alma Reville"@en | hvem oppdaget 6945 dahlgren?
+<http://www.wikidata.org/entity/Q724154> | <http://www.wikidata.org/prop/P57> | <http://www.wikidata.org/entity/Q44414> | "Trey Parker"@nb | hvem var ressigøren av mr.hankey's christmas special?
+<http://www.wikidata.org/entity/Q107325> | <http://www.wikidata.org/prop/P136> | <http://www.wikidata.org/entity/Q1054574> | "romantisk film"@nb | hvilken sjanger er filmen dracula?
+<http://www.wikidata.org/entity/Q2422991> | <http://www.wikidata.org/prop/P136> | <http://www.wikidata.org/entity/Q828322> | "plattformspill"@nb | hvilken sjanger er spillet knight lore?
+<http://www.wikidata.org/entity/Q63118689> | <http://www.wikidata.org/prop/P17> | <http://www.wikidata.org/entity/Q20> | "Norge"@nb | hvilket land er willi wild fra?
+<http://www.wikidata.org/entity/Q504961>  | <http://schema.org/description> | "1927 film by Alfred Hitchcock, Alma Reville"@en | hvem er forfatteren av summertide?
+<http://www.wikidata.org/entity/Q84707705>  | @nb@<http://www.w3.org/2000/01/rdf-schema#label> | "«A&A»"@nb | hva sirkulerer (4384) 1990 aa rundt?
+<http://www.wikidata.org/entity/Q7811817> | <http://www.wikidata.org/prop/P19> | <http://www.wikidata.org/entity/Q180057> | "Lincoln"@nb | hva er fødestedet til toby jepson?
+<http://www.wikidata.org/entity/Q63118689> | <http://www.wikidata.org/prop/P17> | <http://www.wikidata.org/entity/Q20> | "Norge"@nb | hvilket land utga filmen within these walls?
+<http://www.wikidata.org/entity/Q18342302>  | <http://schema.org/description> | "song performed by Jan Høiland"@en | hvor er tvserien engage planet kiss dum fra?
+<http://www.wikidata.org/entity/Q3393521> | <http://www.wikidata.org/prop/P264> | <http://www.wikidata.org/entity/Q183412> | "EMI"@nb | hvilket plateselskap er joaquin cardiel signert til?
+<http://www.wikidata.org/entity/Q504961>  | <http://schema.org/description> | "1927 film by Alfred Hitchcock, Alma Reville"@en | hvem regisserte an awfully big adventure?
+<http://www.wikidata.org/entity/Q504961> | <http://www.wikidata.org/prop/P57> | <http://www.wikidata.org/entity/Q312088> | "Mike Newell"@nb | hvem var regissøren an awfully big adventure?
+<http://www.wikidata.org/entity/Q504961>  | <http://schema.org/description> | "1927 film by Alfred Hitchcock, Alma Reville"@en | hvem skrev lavondyss?
+<http://www.wikidata.org/entity/Q504961>  | <http://schema.org/description> | "1927 film by Alfred Hitchcock, Alma Reville"@en | hvem er skaper av push, nevada?
+<http://www.wikidata.org/entity/Q105769071>  | @pap@<http://www.w3.org/2004/02/skos/core#prefLabel> | "Dory"@pap | hva er fødestedet til virág dőry?
+<http://www.wikidata.org/entity/Q168648> | <http://www.wikidata.org/prop/P421> | <http://www.wikidata.org/entity/Q25989> | "Sentraleuropeisk tid"@nb | hvilken tidssone er sopron i?
+<http://www.wikidata.org/entity/Q504961>  | <http://schema.org/description> | "1927 film by Alfred Hitchcock, Alma Reville"@en | hvem er artisten i albumet aijuswanaseing?
+<http://www.wikidata.org/entity/Q504961>  | <http://schema.org/description> | "1927 film by Alfred Hitchcock, Alma Reville"@en | hvem er grunnlegger av heinkel? 
+<http://www.wikidata.org/entity/Q504961> | <http://www.wikidata.org/prop/P162> | <http://www.wikidata.org/entity/Q1362106> | "Michael Balcon"@nb | hvem er produsent av dog days?
+<http://www.wikidata.org/entity/Q2799264> | <http://www.wikidata.org/prop/P140> | <http://www.wikidata.org/entity/Q432> | "islam"@nb | hva er religionen til rafiq abdus sabir?
+<http://www.wikidata.org/entity/Q15451679>  | <http://www.wikidata.org/prop/P570> | "1921-07-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> | hvor døde calvin leavy? #døde referer til dødsdato i stedet for dødssted som ikke har alias døde
