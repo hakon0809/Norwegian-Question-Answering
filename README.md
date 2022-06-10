@@ -1,4 +1,4 @@
-# Norwegian-Question-Answering-Datasets
+# Norwegian Question Answering Datasets
 
 This is a dataset collection part of a Master thesis at NTNU - Trondheim involving implementing a Question Answering system over Wikidata. 
 
